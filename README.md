@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi there 👋 I'm Sam Horrell
 
+I'm a keen computer science student passionate about applying computer science and software engineering to real-world challenges, and I'm particularly interested in the role of data in large software systems.
 <!--
 **shorrell1/shorrell1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
