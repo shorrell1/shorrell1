@@ -1,6 +1,12 @@
 ## Hi there 👋 I'm Sam Horrell
 
 I'm a keen computer science student passionate about applying computer science and software engineering to real-world challenges, and I'm particularly interested in the role of data in large software systems.
+
+### 🚀 Pinned Projects
+
+- Open Source Government Data Extraction Tool(https://github.com/STVN-afk/Open-Source-Gov-Dataset-Extraction-tool) — A tool created by me and Steve Van during our internship at the department for education to automate the extraction of OGL datasets.
+- Haskell Poker Game(https://github.com/shorrell1/TexasHoldEm) — Texas Hold 'Em game created in Haskell.
+
 <!--
 **shorrell1/shorrell1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
